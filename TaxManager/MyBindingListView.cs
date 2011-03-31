@@ -132,7 +132,7 @@ namespace TaxManager
 		}
 		/*		protected override void RemoveItem(int index)
 				{
-					m_ltdFull.RemoveAt(index);dddsdsdsdsd
+					m_ltdFull.RemoveAt(index);dddsdsdsdsdasdasasd mbhh 
 					this.Items.RemoveAt(index);
 					this.ResetBindings();
 				}*/
