@@ -64,7 +64,7 @@ namespace TaxManager
 			//sb.AppendFormat("Итого:\t{0}",_taxList.GetMoneyAmount());
 			MessageBox.Show(sb.ToString());
 			//System.Diagnostics.Debugger.Break();
-			//My name is cat sdfsdf sdsd
+			//My name is cat sdfsdf sdsdddddsdsddsdsd
 			MessageBox.Show("Test");
 
 
